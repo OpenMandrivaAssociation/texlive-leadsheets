@@ -1,6 +1,6 @@
 Name:		texlive-leadsheets
 Version:	61504
-Release:	1
+Release:	2
 Summary:	Typesetting leadsheets and songbooks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leadsheets
